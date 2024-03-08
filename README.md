@@ -1,7 +1,7 @@
 # Frontend-Mentor-QR-code-component-using-CSS-Grid
 
 ![Design preview for the QR code component coding challenge](./design/desktop-design.jpg)
-![Design preview for the QR code component coding challenge](./design/mobile-mobile.jpg)
+![Design preview for the QR code component coding challenge](./design/mobile-design.jpg)
 
 ## My process
   - I have Built this using HTML, CSS and CSS Grid
