@@ -1,6 +1,7 @@
 # Frontend-Mentor-QR-code-component-using-CSS-Grid
 
-Site is live at https://reninmohan.github.io/Frontend-Mentor-QR-code-component-using-CSS-Grid/
+(./design/desktop-design.jpg)
+(./design/mobile-mobile.jpg)
 
 ## My process
   - I have Built this using HTML, CSS and CSS Grid
