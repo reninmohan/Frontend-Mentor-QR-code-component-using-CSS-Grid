@@ -5,7 +5,7 @@
   - I have Built this using HTML, CSS and CSS Grid
   - I learned how to center div 😂
   - Resource - kevin powell youtube channel
-- Rez
+  - built by Rez
 
 
 ### Built with
